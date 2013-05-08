@@ -1,0 +1,11 @@
+body {
+	font-family: helvetica;
+}
+div {
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	background-color: red;
+	border-radius: 5px;
+	color: blue;
+	width: 95px;
+}
